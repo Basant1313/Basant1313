@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **basantbhagat1@gmail.com**
 
-- ⚡ Fun fact **I think I m a gamer **
+- ⚡ Fun fact **I think I m a gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
