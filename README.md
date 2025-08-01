@@ -1,5 +1,5 @@
-[![MasterHead
 <img src="https://github.com/Basant1313/Basant1313/blob/main/assets/chill-mario.gif?raw=true" alt="MasterHead" />
+
 
 <h1 align="center">Hi 👋, I'm Basant</h1>
 <h3 align="center">As a techy geek, I am grinding my skills. </h3>
