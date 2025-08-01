@@ -1,4 +1,5 @@
-<img src="https://github.com/Basant1313/Basant1313/blob/main/assets/chill-mario.gif?raw=true" alt="MasterHead" />
+<img src="https://github.com/Basant1313/Basant1313/blob/main/assets/chill-mario.gif?raw=true" alt="MasterHead" height="300" />
+
 
 
 <h1 align="center">Hi 👋, I'm Basant</h1>
