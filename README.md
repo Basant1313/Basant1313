@@ -1,4 +1,4 @@
-[![MasterHead]
+[![MasterHead
 <img src="https://github.com/Basant1313/Basant1313/blob/main/assets/chill-mario.gif?raw=true" alt="MasterHead" />
 
 <h1 align="center">Hi 👋, I'm Basant</h1>
