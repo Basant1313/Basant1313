@@ -1,4 +1,4 @@
-<img src="https://github.com/Basant1313/Basant1313/blob/main/assets/chill-mario.gif?raw=true" alt="MasterHead" height="300" width="100%"  />
+<img src="https://github.com/Basant1313/Basant1313/blob/main/assets/chill-mario.gif?raw=true" alt="MasterHead" height="200" width="100%"  />
 
 
 
